@@ -115,10 +115,9 @@ This work is licensed under **Apache License 2.0**. You may use, modify, and dis
 
 ## **10. Authors & Contact**
 
-- **Suma Mallapragada**
-- **Vaishnavi Sankepally**
+- **Suma Mallapragada**, Former Research Intern, IEEE Nanotechnology Council Young Professionals Region 10.
+- **Vaishnavi Sankepally**, Student Intern, SK AI Pvt Ltd.
 - **Deeksha Bestta**\
-  **Affiliation**: Celeste Space Research Center, GNITS, Hyderabad\
   **Publication Date**: July 2024
 
 ---
