@@ -52,7 +52,8 @@ The nanobot follows a **five-stage operational cycle**:
 | **Regeneration Efficiency** | 92.3%          | Effective pseudo-organelle synthesis        |
 
 ![DNA-polystyrene sensor attached to graphene Simulated in VMD](imgs/dna-polystyrene_sensor_mech.png)
-****DNA-Polystyrene Sensor attached to graphene Simulated in VMD****
+
+*****DNA-Polystyrene Sensor attached to graphene Simulated in VMD*****
 
 ### **4.2 Optical Properties of Nanolens**
 
@@ -62,7 +63,8 @@ The nanobot follows a **five-stage operational cycle**:
 | **Optical Efficiency** | 85.6% | Effective for ion identification |
 
 ![Gold Nanolens Simulated on VMD](imgs/goldnanolens.png)
-****Gold Nanolens Simulated in VMD****
+
+*****Gold Nanolens Simulated in VMD*****
 
 ### **4.3 Durability & Structural Resilience**
 
@@ -72,7 +74,8 @@ The nanobot follows a **five-stage operational cycle**:
 | **Polystyrene Resilience** | 0.91       | Resistant to environmental degradation |
 
 ![Polystyrene Bead Simulated on VMD](imgs/bead.png)
-****Polystyrene Bead Simulated in VMD****
+
+*****Polystyrene Bead Simulated in VMD*****
 
 ## **5. Implementation & Technology Stack**
 
