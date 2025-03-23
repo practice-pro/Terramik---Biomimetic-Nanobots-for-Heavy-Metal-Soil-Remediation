@@ -16,7 +16,7 @@ Heavy metal contamination in soil poses severe environmental risks. Existing rem
 
 The nanobot autonomously detects and neutralizes heavy metal ions (Cd²⁺, Pb²⁺, Ni³⁺, Cu³⁺, As³⁺) and degrades after a predetermined operational cycle, ensuring eco-friendliness.
 
-###**2.1 Problem: Heavy Metal Contamination**
+### **2.1 Problem: Heavy Metal Contamination**
 
 Heavy metals like arsenic, cadmium, lead, copper, and nickel pose a significant threat to soil health, agriculture, and human well-being. Current remediation methods face the following challenges:
 - Slow Efficiency: Phytoremediation and bioremediation take years.
