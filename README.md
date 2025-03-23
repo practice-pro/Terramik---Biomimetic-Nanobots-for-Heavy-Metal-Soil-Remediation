@@ -58,6 +58,8 @@ The nanobot follows a **five-stage operational cycle**:
 | **Reflectivity**       | 0.72  | High detection accuracy          |
 | **Optical Efficiency** | 85.6% | Effective for ion identification |
 
+![Gold Nanolens Simulated on VMD](imgs/goldnanolens.png)
+
 ### **4.3 Durability & Structural Resilience**
 
 | Property                   | Value      | Impact                                 |
