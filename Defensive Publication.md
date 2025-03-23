@@ -112,4 +112,4 @@ To ensure visibility, add a reference to this document in your `README.md` file 
 ```markdown
 ## Defensive Publication
 
-This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see [Defensive_Publication.md](./Defensive_Publication.md).
+This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see https://github.com/practice-pro/Terramik---Biomimetic-Nanobots-for-Heavy-Metal-Soil-Remediation/blob/main/Defensive%20Publication.md.
