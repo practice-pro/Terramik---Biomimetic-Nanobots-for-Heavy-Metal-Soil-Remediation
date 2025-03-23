@@ -75,8 +75,8 @@ This defensive publication ensures that **biomimetic nanobots with nanosensors a
 
 By contributing to this repository or using its contents, you agree to the terms outlined in the Apache 2.0 License. This license:
 
--Provides a patent grant, allowing the free use of the project’s contents without fear of infringing on patent rights.
--Enables you to modify, distribute, and even commercialize the project under certain conditions, as long as you adhere to the terms of the license.
+- Provides a patent grant, allowing the free use of the project’s contents without fear of infringing on patent rights.
+- Enables you to modify, distribute, and even commercialize the project under certain conditions, as long as you adhere to the terms of the license.
 ---
 
 ### **License: Apache 2.0**
@@ -87,9 +87,9 @@ The content within this repository is considered to be publicly available as of 
 
 The **defensive publication** status is achieved by the following:
 
--The project is publicly hosted on GitHub with the Apache 2.0 License.
--The project is available for anyone to use, modify, and distribute.
--The **patent rights** are automatically granted to users of the project, as outlined in the Apache 2.0 License.
+- The project is publicly hosted on GitHub with the Apache 2.0 License.
+- The project is available for anyone to use, modify, and distribute.
+- The **patent rights** are automatically granted to users of the project, as outlined in the Apache 2.0 License.
 
 ## **8.Contributions and CLA**
 All contributors to this repository must sign a Contributor License Agreement (CLA) before submitting any pull requests. The CLA ensures that contributors are aware of the defensive publication and agree to the licensing terms under which their contributions will be made available.
@@ -103,11 +103,9 @@ Thank you for helping us protect the open nature of **Biomimetic Nanobots for He
 
 ### **Create the File**
 
--Add a new file named DEFENSIVE_PUBLICATION.md to your repository’s root directory.
-
--Copy and paste the content of this document into the newly created file.
-
--Commit and push the changes to your GitHub repository.
+- Add a new file named DEFENSIVE_PUBLICATION.md to your repository’s root directory.
+- Copy and paste the content of this document into the newly created file.
+- Commit and push the changes to your GitHub repository.
 
 ### **Link in README.md**
 To ensure visibility, add a reference to this document in your `README.md` file by including the following section:
