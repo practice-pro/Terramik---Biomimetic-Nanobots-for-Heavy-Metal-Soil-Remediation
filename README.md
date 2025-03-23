@@ -12,7 +12,7 @@ Heavy metal contamination in soil poses severe environmental risks. Existing rem
 - **Gold nanolens** for selective ion detection.
 - **Pseudo-organelle payload system**, bioengineered for enzymatic neutralization.
 - **Self-regenerating mechanism** to replenish active payloads.
-- **IoT-enabled communication system** for real-time monitoring and control.
+- **NanoIoT-enabled communication system** for real-time monitoring and control.
 
 The nanobot autonomously detects and neutralizes heavy metal ions (Cd²⁺, Pb²⁺, Ni³⁺, Cu³⁺, As³⁺) and degrades after a predetermined operational cycle, ensuring eco-friendliness.
 
@@ -27,7 +27,7 @@ The nanobot autonomously detects and neutralizes heavy metal ions (Cd²⁺, Pb²
 | **Polystyrene-DNA Spring Sensors** | Controls movement and enzymatic release.                          |
 | **Pseudo-Organelle Payload**       | Bioengineered agents for metal neutralization.                    |
 | **Self-Regeneration Chamber**      | Ensures continuous neutralization without human intervention.     |
-| **IoT Interface**                  | Provides real-time monitoring and control.                        |
+| **IoT Interface**                  | Provides real-time monitoring and control of nanosenor connection.|
 
 ### **3.2 Mechanism of Action**
 
