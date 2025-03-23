@@ -11,6 +11,7 @@ Heavy metal contamination in soil poses severe environmental risks. Existing rem
 - **Graphene-based outer capsule** for structural integrity.
 - **Gold nanolens** for selective ion detection.
 - **Pseudo-organelle payload system**, bioengineered for enzymatic neutralization.
+- **Optical-tweezer based DNA-Polystyrene actuators** , to enable sensing, movement within and outside nanobot.
 - **Self-regenerating mechanism** to replenish active payloads.
 - **NanoIoT-enabled communication system** for real-time monitoring and control.
 
