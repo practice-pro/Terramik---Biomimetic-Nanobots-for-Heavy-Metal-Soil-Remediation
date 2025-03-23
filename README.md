@@ -51,6 +51,9 @@ The nanobot follows a **five-stage operational cycle**:
 | **Stability Index**         | 0.87           | High stability under varied soil conditions |
 | **Regeneration Efficiency** | 92.3%          | Effective pseudo-organelle synthesis        |
 
+![DNA-polystyrene sensor attached to graphene Simulated in VMD](imgs/dna-polystyrene_sensor_mech.png)
+****DNA-Polystyrene Sensor attached to graphene Simulated in VMD****
+
 ### **4.2 Optical Properties of Nanolens**
 
 | Property               | Value | Impact                           |
@@ -59,6 +62,7 @@ The nanobot follows a **five-stage operational cycle**:
 | **Optical Efficiency** | 85.6% | Effective for ion identification |
 
 ![Gold Nanolens Simulated on VMD](imgs/goldnanolens.png)
+****Gold Nanolens Simulated in VMD****
 
 ### **4.3 Durability & Structural Resilience**
 
@@ -67,9 +71,14 @@ The nanobot follows a **five-stage operational cycle**:
 | **Operational Lifespan**   | 1.5 months | Sufficient for soil remediation cycles |
 | **Polystyrene Resilience** | 0.91       | Resistant to environmental degradation |
 
+![Polystyrene Bead Simulated on VMD](imgs/bead.png)
+****Polystyrene Bead Simulated in VMD****
+
 ## **5. Implementation & Technology Stack**
 
 ### **5.1 Implementation Steps**
+
+![Use Case Diagram](imgs/usecase_diagram.png)
 
 1. **Nanobot Simulation**: NAMD & Graph Neural Networks for behavior modeling.
 2. **ML-Based Action Programming**: Adaptive algorithms for response tuning facilitated through NanoFramework WebSockets.
