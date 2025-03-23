@@ -157,7 +157,8 @@ This work is licensed under **Apache License 2.0**. You may use, modify, and dis
 - **Vaishnavi Sankepally**, Student Intern, SK AI Pvt Ltd.\
   Find us on Linkedin : [Suma Mallapragada](https://www.linkedin.com/in/suma-mallapragada-67b719220/)
   
-                        [Vaishnavi Sankepally](https://www.linkedin.com/in/vaishnavi-sankepally-175ab5225/)
+
+  [Vaishnavi Sankepally](https://www.linkedin.com/in/vaishnavi-sankepally-175ab5225/)
   
   **Publication Date**: July 2024
 
