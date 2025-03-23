@@ -73,7 +73,8 @@ The nanobot follows a **five-stage operational cycle**:
 2. **ML-Based Action Programming**: Adaptive algorithms for response tuning facilitated through NanoFramework WebSockets.
 3. **IoT Integration**: Real-time monitoring & activation using Arduino Cloud.
 4. **Biological Payload Synthesis**: Protein sequence optimization via PyG.
-5. **Field Testing & Deployment**: Pilot testing in contaminated soil conditions.
+5. **3D Printing and 3D Bioprinting**:Pseudo-organelle developement through 3D Bioprinting based on simulation results and integration with *graphene outer capsule*, *dna-polystyrene bead*,*optical tweezer system*, *gold nanolens* through 3D Printing.
+6. **Field Testing & Deployment**: Pilot testing in contaminated soil conditions.
 
 ### **5.2 Technology Stack**
 
