@@ -53,7 +53,7 @@ The nanobot follows a **five-stage operational cycle**:
 
 ![DNA-polystyrene sensor attached to graphene Simulated in VMD](imgs/dna-polystyrene_sensor_mech.png)
 
-*****DNA-Polystyrene Sensor attached to graphene Simulated in VMD*****
+*****DNA-Polystyrene Sensor attached to graphene: Simulated in VMD*****
 
 ### **4.2 Optical Properties of Nanolens**
 
@@ -64,7 +64,7 @@ The nanobot follows a **five-stage operational cycle**:
 
 ![Gold Nanolens Simulated on VMD](imgs/goldnanolens.png)
 
-*****Gold Nanolens Simulated in VMD*****
+*****Gold Nanolens: Simulated in VMD*****
 
 ### **4.3 Durability & Structural Resilience**
 
@@ -75,7 +75,7 @@ The nanobot follows a **five-stage operational cycle**:
 
 ![Polystyrene Bead Simulated on VMD](imgs/bead.png)
 
-*****Polystyrene Bead Simulated in VMD*****
+*****Polystyrene Bead: Simulated in VMD*****
 
 ## **5. Implementation & Technology Stack**
 
