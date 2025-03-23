@@ -4,6 +4,9 @@
 
 This repository contains a **defensive publication** detailing the design, operation, and computational validation of **biomimetic nanobots** for heavy metal soil remediation. The publication ensures that this technology remains freely available, preventing restrictive patents that could hinder environmental nanotechnology advancements. 
 
+Link to Defensive Publication details :
+[Defensive Publication](https://github.com/practice-pro/Terramik---Biomimetic-Nanobots-for-Heavy-Metal-Soil-Remediation/blob/main/Defensive%20Publication.md)
+
 You can find the Zenodo DOI here for the same:
 [DoI](https://zenodo.org/records/15071484)
 
@@ -166,6 +169,7 @@ This work is licensed under **Apache License 2.0**. You may use, modify, and dis
   [Vaishnavi Sankepally](https://www.linkedin.com/in/vaishnavi-sankepally-175ab5225/)
   
   **Publication Date**: March 2025
+  **Citation Info**: Suma Mallapragada, & Vaishnavi Sankepally. (2025). Biomimetic Nanobots for Heavy Metal Soil Remediation (Main). Zenodo. https://doi.org/10.5281/zenodo.15071484
 
 ---
 
