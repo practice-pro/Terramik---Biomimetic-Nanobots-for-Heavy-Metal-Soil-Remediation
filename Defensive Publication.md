@@ -101,9 +101,12 @@ Thank you for helping us protect the open nature of **Biomimetic Nanobots for He
 
 ## **9.How to add this to your Repository**
 
-**Create the File**
+### **Create the File**
+
 -Add a new file named DEFENSIVE_PUBLICATION.md to your repository’s root directory.
+
 -Copy and paste the content of this document into the newly created file.
+
 -Commit and push the changes to your GitHub repository.
 
 ### **Link in README.md**
