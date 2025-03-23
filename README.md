@@ -83,6 +83,7 @@ The nanobot follows a **five-stage operational cycle**:
 | **NAMD**                        | Molecular dynamics simulations with quantum chemistry support.   |
 | **PyG (Graph Neural Networks)** | Optimizing enzyme catalysis and solubility control.              |
 | **Arduino Cloud**               | Integrating nanosensors for real-time soil condition monitoring. |
+| **NanoFramework WebSockets**    | Real-time sensor triggering with AI algorithm driven operations. |
 
 ## **6. Applications & Use Cases**
 
