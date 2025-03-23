@@ -28,7 +28,9 @@ To sign the Contributor License Agreement (CLA), please follow these steps:
 - Fork the repository (if you haven't already).
 - Make your changes or submit your contribution.
 - When creating your pull request or commit, sign-off your commits by adding the following line at the end of your commit message (this indicates your agreement to the CLA):
+  
       Signed-off-by: Your Name <your-email@example.com>
+  
 - Once the pull request is merged or your contribution is accepted, your agreement to the CLA is considered legally binding.
 
 By submitting a pull request or contributing, you acknowledge that you agree to the terms outlined in this CLA.
