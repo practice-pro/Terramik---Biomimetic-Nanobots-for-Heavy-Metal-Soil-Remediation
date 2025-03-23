@@ -27,7 +27,7 @@ The nanobot autonomously detects and neutralizes heavy metal ions (Cd²⁺, Pb²
 | **Polystyrene-DNA Spring Sensors** | Controls movement and enzymatic release.                          |
 | **Pseudo-Organelle Payload**       | Bioengineered agents for metal neutralization.                    |
 | **Self-Regeneration Chamber**      | Ensures continuous neutralization without human intervention.     |
-| **IoT Interface**                  | Provides real-time monitoring and control of nanosenor connection.|
+| **IoT Interface**                  | Provides real-time monitoring and control of nanosensor connection|
 
 ### **3.2 Mechanism of Action**
 
