@@ -19,16 +19,16 @@ The nanobot autonomously detects and neutralizes heavy metal ions (Cd²⁺, Pb²
 ### **2.1 Problem: Heavy Metal Contamination**
 
 Heavy metals like arsenic, cadmium, lead, copper, and nickel pose a significant threat to soil health, agriculture, and human well-being. Current remediation methods face the following challenges:
-- Slow Efficiency: Phytoremediation and bioremediation take years.
-- High Costs: Electrokinetic and chemical treatments are expensive and energy-intensive.
-- Environmental Risks: Soil washing and chemical immobilization alter soil pH and cause leaching.
+- **Slow Efficiency**: Phytoremediation and bioremediation take years.
+- **High Costs**: Electrokinetic and chemical treatments are expensive and energy-intensive.
+- **Environmental Risks**: Soil washing and chemical immobilization alter soil pH and cause leaching.
 
 ### **2.2 Solution: Nanobot-Based Remediation**
 
 Our approach involves 30-micron biomimetic nanobots designed to navigate soil environments and neutralize heavy metals via targeted interactions. The key features include:
 - Eco-friendly biological neutralization (pseudo-organelles based on S. aureus sequences).
 - Nanobot self-regeneration to ensure sustainability of each nanobot for 1–2 months.
-- IoT-based monitoring for real-time control and data logging.
+- NanoIoT and Edge ML operation which reduces human intervention.
 
 ## **3. Technical Specifications**
 
