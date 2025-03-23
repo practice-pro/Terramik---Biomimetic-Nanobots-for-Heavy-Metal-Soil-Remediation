@@ -3,7 +3,7 @@
 ## **1. Background**
 Heavy metal contamination in soil poses a significant environmental challenge, affecting agriculture, groundwater quality, and human health. Existing remediation techniques such as phytoremediation, chemical immobilization, and soil washing are expensive, time-consuming, and often environmentally invasive. 
 
-Advancements in **nanosensors, nanoIoT, and biomimetic nanotechnology** present an opportunity for cost-effective, scalable, and self-sustaining soil decontamination solutions. This defensive publication ensures open access to this technology, preventing restrictive patents that could hinder progress in environmental nanotechnology.
+Advancements in **nanosensors, nanoIoT, and biomimetic nanotechnology** present an opportunity for cost-effective, scalable, and self-sustaining soil decontamination solutions. This defensive publication ensures open access to this technology, preventing restrictive patents that could hinder progress in environmental nanotechnology.You can find the DoI here: [https://zenodo.org/records/15071484](https://zenodo.org/records/15071484).
 
 ---
 
