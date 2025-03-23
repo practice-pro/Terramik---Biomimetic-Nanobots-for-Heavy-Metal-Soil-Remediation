@@ -94,7 +94,7 @@ The **defensive publication** status is achieved by the following:
 ## **8.Contributions and CLA**
 All contributors to this repository must sign a Contributor License Agreement (CLA) before submitting any pull requests. The CLA ensures that contributors are aware of the defensive publication and agree to the licensing terms under which their contributions will be made available.
 
-Please read the full CLA here
+Please read the full CLA [here](CLA.md)
 
 If you have any questions about the defensive publication status, licensing, or any other related legal concerns, feel free to contact us.
 Thank you for helping us protect the open nature of **Biomimetic Nanobots for Heavy Metal Soil Remediation** and supporting our commitment to making nanorobotics for soil sustainability more accessible and free of patent constraints.
