@@ -2,7 +2,10 @@
 
 ## **1. Overview**
 
-This repository contains a **defensive publication** detailing the design, operation, and computational validation of **biomimetic nanobots** for heavy metal soil remediation. The publication ensures that this technology remains freely available, preventing restrictive patents that could hinder environmental nanotechnology advancements.
+This repository contains a **defensive publication** detailing the design, operation, and computational validation of **biomimetic nanobots** for heavy metal soil remediation. The publication ensures that this technology remains freely available, preventing restrictive patents that could hinder environmental nanotechnology advancements. 
+
+You can find the Zenodo DOI here for the same:
+[DoI](https://zenodo.org/records/15071484)
 
 ## **2. Abstract**
 
