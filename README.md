@@ -70,7 +70,7 @@ The nanobot follows a **five-stage operational cycle**:
 ### **5.1 Implementation Steps**
 
 1. **Nanobot Simulation**: NAMD & Graph Neural Networks for behavior modeling.
-2. **ML-Based Action Programming**: Adaptive algorithms for response tuning.
+2. **ML-Based Action Programming**: Adaptive algorithms for response tuning facilitated through NanoFramework WebSockets.
 3. **IoT Integration**: Real-time monitoring & activation using Arduino Cloud.
 4. **Biological Payload Synthesis**: Protein sequence optimization via PyG.
 5. **Field Testing & Deployment**: Pilot testing in contaminated soil conditions.
