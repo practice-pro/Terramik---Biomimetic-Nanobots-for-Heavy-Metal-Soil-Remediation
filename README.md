@@ -54,6 +54,8 @@ The nanobot follows a **five-stage operational cycle**:
 4. **Regeneration** – Nanobot synthesizes new pseudo-organelles.
 5. **Degradation** – Controlled apoptosis after operational lifespan.
 
+![Working](imgs/Working of components of nanobot.png)
+
 ### **3.3 Ethical Implementation and Regulatory Compliance**
 
 To ensure responsible use, the nanobot simulation and deployment follow strict ethical and regulatory guidelines:
