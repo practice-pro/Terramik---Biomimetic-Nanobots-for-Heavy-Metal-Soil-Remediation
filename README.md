@@ -169,6 +169,7 @@ This work is licensed under **Apache License 2.0**. You may use, modify, and dis
   [Vaishnavi Sankepally](https://www.linkedin.com/in/vaishnavi-sankepally-175ab5225/)
   
   **Publication Date**: March 2025
+  
   **Citation Info**: Suma Mallapragada, & Vaishnavi Sankepally. (2025). Biomimetic Nanobots for Heavy Metal Soil Remediation (Main). Zenodo. https://doi.org/10.5281/zenodo.15071484
 
 ---
