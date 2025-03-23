@@ -39,6 +39,15 @@ The nanobot follows a **five-stage operational cycle**:
 4. **Regeneration** – Nanobot synthesizes new pseudo-organelles.
 5. **Degradation** – Controlled apoptosis after operational lifespan.
 
+### **3.3 Ethical Implementation and Regulatory Compliance**
+
+To ensure responsible use, the nanobot simulation and deployment follow strict ethical and regulatory guidelines:
+1. **User Validation** - Only verified researchers, scientists, and industry personnel can access the simulation.
+2. **Ethical Approval** - Users must comply with institutional ethical policies and international safety standards.
+3. **Controlled Release** - Deployment in real-world scenarios is restricted to pre-approved research institutions and environmental agencies.
+4. **Destruction Prevention** - The nanobot is designed to self-destruct after its operational cycle, preventing misuse for harmful applications.
+
+![Use Case Diagram](imgs/usecase_diagram.png)
 
 ## **4. Computational Simulations & Performance Metrics**
 
@@ -97,8 +106,6 @@ The nanobot follows a **five-stage operational cycle**:
 | **PyG (Graph Neural Networks)** | Optimizing enzyme catalysis and solubility control.              |
 | **Arduino Cloud**               | Integrating nanosensors for real-time soil condition monitoring. |
 | **NanoFramework WebSockets**    | Real-time sensor triggering with AI algorithm driven operations. |
-
-![Use Case Diagram](imgs/usecase_diagram.png)
 
 ## **6. Applications & Use Cases**
 
