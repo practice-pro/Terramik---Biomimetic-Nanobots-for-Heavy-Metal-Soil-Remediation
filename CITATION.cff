@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Biomimetic Nanobots for Heavy Metal Soil Remediation"
+authors:
+  - name: Suma Mallapragada
+    orcid: https://orcid.org/0009-0000-3441-6168
+  - name: Vaishnavi Sankepally
+    affiliation: SK AI Pvt Ltd.
+date-released: 2025-03-23
+version: "1.0.0"
+license: "Apache-2.0"
+repository-code: https://github.com/practice-pro/Terramik---Biomimetic-Nanobots-for-Heavy-Metal-Soil-Remediation
+doi: "10.5281/zenodo.1234567"
+keywords:
+  - Nanobiotechnology
+  - Environmental Remediation
+  - Heavy Metal Removal
+  - Nanosensors
+  - NanoIoT
+  - Simulation
+type: software
