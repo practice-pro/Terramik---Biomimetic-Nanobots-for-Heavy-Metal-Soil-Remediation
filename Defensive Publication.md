@@ -70,10 +70,46 @@ The affordability of this nanobot technology is ensured through:
 
 ---
 
-## **6. Conclusion**
+## **6. Legal Implications and License**
 This defensive publication ensures that **biomimetic nanobots with nanosensors and nanoIoT capabilities** remain an **open, non-patentable technology**, facilitating affordable, scalable, and responsible heavy metal remediation solutions.
 
+By contributing to this repository or using its contents, you agree to the terms outlined in the Apache 2.0 License. This license:
+
+-Provides a patent grant, allowing the free use of the project’s contents without fear of infringing on patent rights.
+-Enables you to modify, distribute, and even commercialize the project under certain conditions, as long as you adhere to the terms of the license.
 ---
 
 ### **License: Apache 2.0**
 This publication is released under the **Apache 2.0 license** to encourage open scientific collaboration while preventing proprietary restrictions on environmental nanotechnology.
+
+## **7.How Defensive Publication Works**
+The content within this repository is considered to be publicly available as of its publication. By making this work public, we ensure that no one can patent the methodologies, algorithms, or designs that are shared here.
+
+The **defensive publication** status is achieved by the following:
+
+-The project is publicly hosted on GitHub with the Apache 2.0 License.
+-The project is available for anyone to use, modify, and distribute.
+-The **patent rights** are automatically granted to users of the project, as outlined in the Apache 2.0 License.
+
+## **8.Contributions and CLA**
+All contributors to this repository must sign a Contributor License Agreement (CLA) before submitting any pull requests. The CLA ensures that contributors are aware of the defensive publication and agree to the licensing terms under which their contributions will be made available.
+
+Please read the full CLA here
+
+If you have any questions about the defensive publication status, licensing, or any other related legal concerns, feel free to contact us.
+Thank you for helping us protect the open nature of **Biomimetic Nanobots for Heavy Metal Soil Remediation** and supporting our commitment to making nanorobotics for soil sustainability more accessible and free of patent constraints.
+
+## **9.How to add this to your Repository**
+
+**Create the File**
+-Add a new file named DEFENSIVE_PUBLICATION.md to your repository’s root directory.
+-Copy and paste the content of this document into the newly created file.
+-Commit and push the changes to your GitHub repository.
+
+### **Link in README.md**
+To ensure visibility, add a reference to this document in your `README.md` file by including the following section:
+
+```markdown
+## Defensive Publication
+
+This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see [Defensive_Publication.md](./Defensive_Publication.md).
