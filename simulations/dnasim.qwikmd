@@ -1,0 +1,50 @@
+####################
+#		 QwikMD Input File
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+####################
+set QWIKMD::nucleicmcr {(not name QWIKMDDELETE and nucleic)}
+set QWIKMD::proteinmcr {(not name QWIKMDDELETE and protein)}
+set QWIKMD::heteromcr {(not name QWIKMDDELETE and hetero and not qwikmd_protein and not qwikmd_lipid and not qwikmd_nucleic and not qwikmd_glycan and not water)}
+set QWIKMD::glycanmcr {(not name QWIKMDDELETE and glycan)}
+set QWIKMD::lipidmcr {(not name QWIKMDDELETE and lipid)}
+atomselect macro qwikmd_protein $QWIKMD::proteinmcr
+atomselect macro qwikmd_nucleic $QWIKMD::nucleicmcr
+atomselect macro qwikmd_glycan $QWIKMD::glycanmcr
+atomselect macro qwikmd_lipid $QWIKMD::lipidmcr
+atomselect macro qwikmd_hetero $QWIKMD::heteromcr
+$QWIKMD::topGui.nbinput select 0
+set QWIKMD::prepared 0
+QWIKMD::changeMainTab
+$QWIKMD::topGui.nbinput.f1.nb select 0
+QWIKMD::ChangeMdSmd 1
+set QWIKMD::inputstrct PDB ID
+QWIKMD::LoadButt $QWIKMD::inputstrct
+array set QWIKMD::basicGui {live 0 currenttime {Completed 0.000 of 0.000 ns} plength 10.0 prtcl,SMD,md 1 temperature,0 27 desktop {} temperature,1 27 saltconc,0 0.15 scheme {VMD Classic} mdPrec,0 0 pspeed 2.5 saltions,0 NaCl prtcl,MD,equi 1 mdtime,0 10.0 mdtime,1 4.0 prtcl,SMD,smd 1 prtcl,SMD,equi 1 currenttime,0 {} currenttime,1 {} solvent,0 Implicit prtcl,MD,md 1 }
+array set QWIKMD::advGui {live 0 currenttime {Completed 0.000 of 0.000 ns} plength 10.0 prtcl,SMD,md 1 temperature,0 27 desktop {} temperature,1 27 saltconc,0 0.15 scheme {VMD Classic} mdPrec,0 0 pspeed 2.5 saltions,0 NaCl prtcl,MD,equi 1 mdtime,0 10.0 mdtime,1 4.0 prtcl,SMD,smd 1 prtcl,SMD,equi 1 currenttime,0 {} currenttime,1 {} solvent,0 Implicit prtcl,MD,md 1 addmol 10 protocoltb,SMD,1,restrIndex {} protocoltb,MD,0 Minimization membrane,efect translate protocoltb,MD,1 Annealing analyze,basic,selcombo backbone protocoltb,SMD,2,lock 0 protocoltb,MD,2 Equilibration protocoltb,MD,3 MD membrane,multi 1 protocoltb,SMD,2,restrsel {} protocoltb,MD,0,restrsel {} protocoltb,MD,0,smd 0 protocoltb,MD,2,smd 0 mdff,min 200 protocoltb,MD,0,restrIndex {} analyze,advance,calcombo {H Bonds} protocoltb,SMD,3,restrsel {} protocoltb,MD,1,lock 0 analyze,advance,hbondsel2entry {Type Selection} protocoltb,SMD,3,saveAsTemplate 0 protocoltb,MD,1,restrsel {} solvent,boxbuffer 15 protocoltb,SMD,0 Minimization membrane,lipid POPC protocoltb,SMD,1 Annealing protocoltb,SMD,2 Equilibration analyze,basic,alientry {Type Selection} protocoltb,SMD,3 SMD protocoltb,MD,3,saveAsTemplate 0 protocoltb,MD,3,restrIndex {} protocoltb,SMD,2,saveAsTemplate 0 protocoltb,SMD,2,restrIndex {} protocoltb,SMD,1,lock 0 protocoltb,MD,2,restrsel {} analyze,basic,alicombo backbone protocoltb,SMD,1,smd 0 protocoltb,MD,2,saveAsTemplate 0 membrane,ysize 30 protocoltb,SMD,3,smd 0 membrane,axis x protocoltb,SMD,1,saveAsTemplate 0 protocoltb,MD,3,lock 0 saltconc,0 0.15 protocoltb,MD,3,restrsel {} protocoltb,MD,1,saveAsTemplate 0 protocoltb,MD,1,restrIndex {} protocoltb,MD,0,lock 0 protocoltb,SMD,0,saveAsTemplate 0 protocoltb,SMD,0,restrIndex {} analyze,advance,hbondsel1entry {Type Selection} saltions,0 NaCl protocoltb,MD,1,smd 0 analyze,basic,alicheck 0 protocoltb,SMD,3,lock 0 protocoltb,MD,3,smd 0 protocoltb,MD,0,saveAsTemplate 0 solvent,0 Explicit solvent,minimalbox 0 protocoltb,SMD,0,lock 0 protocoltb,SMD,3,restrIndex {} protocoltb,SMD,0,restrsel {} protocoltb,MD,2,lock 0 protocoltb,SMD,0,smd 0 analyze,basic,selentry {Type Selection} protocoltb,SMD,1,restrsel {} membrane,xsize 30 protocoltb,SMD,2,smd 0 mdff,mdff 50000 protocoltb,MD,2,restrIndex {} }
+array set QWIKMD::mutate {}
+array set QWIKMD::protonate { }
+set QWIKMD::mutindex {}
+set QWIKMD::protindex {}
+set QWIKMD::renameindex {}
+array set QWIKMD::dorename {}
+set QWIKMD::patchestr {}
+array set QWIKMD::chains {}
+array set QWIKMD::index_cmb { }
+set QWIKMD::delete {}
+set QWIKMD::state 0
+set QWIKMD::prevconfFile {Minimization Annealing Equilibration SMD}
+set QWIKMD::confFile $QWIKMD::prevconfFile
+set QWIKMD::basicGui(live) 0
+set QWIKMD::dcdfreq 10000
+set QWIKMD::smdfreq 40
+set QWIKMD::maxSteps {2000 144000 500000 500000}
