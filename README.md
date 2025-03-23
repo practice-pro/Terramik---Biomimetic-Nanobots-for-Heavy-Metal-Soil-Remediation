@@ -81,8 +81,6 @@ The nanobot follows a **five-stage operational cycle**:
 
 ### **5.1 Implementation Steps**
 
-![Use Case Diagram](imgs/usecase_diagram.png)
-
 1. **Nanobot Simulation**: NAMD & Graph Neural Networks for behavior modeling.
 2. **ML-Based Action Programming**: Adaptive algorithms for response tuning facilitated through NanoFramework WebSockets.
 3. **IoT Integration**: Real-time monitoring & activation using Arduino Cloud.
@@ -99,6 +97,8 @@ The nanobot follows a **five-stage operational cycle**:
 | **PyG (Graph Neural Networks)** | Optimizing enzyme catalysis and solubility control.              |
 | **Arduino Cloud**               | Integrating nanosensors for real-time soil condition monitoring. |
 | **NanoFramework WebSockets**    | Real-time sensor triggering with AI algorithm driven operations. |
+
+![Use Case Diagram](imgs/usecase_diagram.png)
 
 ## **6. Applications & Use Cases**
 
