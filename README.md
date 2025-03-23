@@ -26,9 +26,9 @@ Heavy metals like arsenic, cadmium, lead, copper, and nickel pose a significant 
 ### **2.2 Solution: Nanobot-Based Remediation**
 
 Our approach involves 30-micron biomimetic nanobots designed to navigate soil environments and neutralize heavy metals via targeted interactions. The key features include:
-- Eco-friendly biological neutralization (pseudo-organelles based on S. aureus sequences).
-- Nanobot self-regeneration to ensure sustainability of each nanobot for 1–2 months.
-- NanoIoT and Edge ML operation which reduces human intervention.
+- **Eco-friendly** biological neutralization (pseudo-organelles based on S. aureus sequences).
+- Nanobot **self-regeneration** to ensure sustainability of each nanobot for 1–2 months.
+- **NanoIoT** and **Edge ML** operation which reduces human intervention.
 
 ## **3. Technical Specifications**
 
